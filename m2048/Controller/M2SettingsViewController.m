@@ -22,7 +22,7 @@
 }
 
 
-# pragma mark - Set up just testing stuff
+# pragma mark - Set up just
 
 - (instancetype)initWithNibName:(NSString *)nibNameOrNil bundle:(NSBundle *)nibBundleOrNil
 {
